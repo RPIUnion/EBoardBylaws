@@ -1,7 +1,7 @@
 # EBoardBylaws
 
 ###About
-Bylaws of the Rensselaer Union Judicial Board
+Bylaws of the Rensselaer Union Executive Board
 
 ###Download the bylaws!
 
