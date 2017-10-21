@@ -40,7 +40,9 @@
 \titleformat{\section}[runin]{\normalfont\scshape}
 {Section \thesection.}{.5em}{}[\quad]
 
-\renewcommand{\thesection}{\arabic{section}} 
+\renewcommand{\thesection}{\arabic{section}}
 \renewcommand{\theenumi}{\arabic{enumi}}
 \renewcommand{\theenumii}{\alph{enumii}}
 \renewcommand{\theenumiii}{\roman{enumiii}}
+\renewcommand{\labelenumiii}{(\roman{enumiii})}
+\renewcommand{\theenumiv}{\arabic{enumiv}}
